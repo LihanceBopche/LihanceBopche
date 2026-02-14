@@ -6,58 +6,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
+🚀 Motivated Full-Stack Developer passionate about building modern web applications
+💡 Strong focus on UI, responsiveness, and backend integration
+🎯 Goal: Build impactful tech products & scalable systems
 
-🚀 Motivated Full-Stack Developer passionate about building modern web applications  
-💡 Strong focus on UI, responsiveness, and backend integration  
-🎯 Goal: Build impactful tech products & scalable systems  
-
-✔ MCA – SGB Amravati University (2024–2026)  
-✔ Background in Commerce + Computer Applications  
-
----
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lihancekomeshbopche_17552) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lihancebopche) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lihance) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lihance Komesh Bopche) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LihanceBopche) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Haay_Garmi_2023) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lihancebopche@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LihanceBopche&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LihanceBopche&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LihanceBopche&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LihanceBopche&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LihanceBopche&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=LihanceBopche&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Languages
-
-
-
-
-
-Frameworks / Runtime
-
-
-
-Databases
-
-
-
-Tools & Workflow
-
-
-
+✔ MCA – SGB Amravati University (2024–2026)
+✔ Background in Commerce + Computer Applications
 
 🚀 Selected Projects
 🔹 Cricket Club Management System
@@ -67,8 +22,140 @@ Tools & Workflow
 
 Focused on usability, layout clarity, and practical functionality.
 
-📊 GitHub Overview
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LihanceBopche&show_icons=true&theme=radical&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LihanceBopche&theme=radical&hide_border=true"/> </p>
+💻 Tech Stack
+
+## 🧬 Languages & Technologies
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.php.net/docs.php" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+</p>
+
+
+
+## ⚙️ Frameworks / Runtime
+
+<p align="center">
+  <a href="https://nodejs.org/en/docs"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></a>
+</p>
+
+
+## 🗄 Databases
+
+<p align="center">
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://docs.oracle.com/en/database/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=oracle" />
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://supabase.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=supabase" />
+  </a>
+</p>
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb,supabase&theme=dark" />
+
+
+## 🛠 Tools / IDE / Workflow
+
+<p align="center">
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.figma.com/resources/learn-design/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+
+  <a href="https://learning.postman.com/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postman" />
+</a>
+
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=canva" />
+</a>
+
+</p>
+
+## 🚀 Deployment / Hosting
+
+<p align="center">
+  <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" /></a>
+  <a href="https://firebase.google.com/docs"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" /></a>
+  <a href="https://www.000webhost.com/"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
+  <a href="https://www.hostinger.com/"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" /></a>
+</p>
+
+
+
+
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LihanceBopche&show_icons=true&theme=radical&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=LihanceBopche&theme=radical&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LihanceBopche&layout=compact&theme=radical&hide_border=true"/> </p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://discord.gg/lihancekomeshbopche_17552" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://facebook.com/lihancebopche" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://instagram.com/lihance" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/lihance-komesh-bopche-15a263220" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/LihanceBopche" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://youtube.com/@@Haay_Garmi_2023" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+  <a href="mailto:lihancebopche@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+
+
+
+
 🧩 Soft Skills
 ✔ Problem Solving
 ✔ Communication
@@ -76,16 +163,18 @@ Focused on usability, layout clarity, and practical functionality.
 ✔ Time Management
 ✔ Creativity
 
+## 🗣 Communication Languages
+
+🇬🇧 English      ▰▰▰▰▰▰▰▰▱▱  Advanced  
+🇮🇳 Hindi        ▰▰▰▰▰▰▰▰▰▰  Fluent  
+🇮🇳 Marathi      ▰▰▰▰▰▰▰▰▱▱  Advanced
+
+
+
 🌍 Personal Snapshot
 📍 Gondia, Maharashtra, India
 🗣 English • Hindi • Marathi
 
-Interests → Photography • Travelling • Vlogging • Driving
-
-Open to collaborations, learning opportunities, and impactful work.
-
-🤝 Connect With Me
-
-
+📸 Photography • Travelling • Vlogging • Driving
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LihanceBopche&color=00ffe0&style=flat-square"/> </p> ```

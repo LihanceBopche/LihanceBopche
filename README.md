@@ -1,119 +1,79 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&text=Lihance%20Bopche&fontSize=45&fontColor=00ffe0&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,100:0f0c29&text=Lihance%20Bopche&fontColor=00FFE0&fontSize=54&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node%20%7C%20JavaScript&descAlignY=70&descAlign=50"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node+%7C+JavaScript;Building+Real+World+Projects;Clean+Code+Enthusiast&center=true&width=500&height=45&color=00FFE0&vCenter=true"/>
-</p> -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,100:0f0c29&text=Lihance%20Bopche&fontColor=00FFE0&fontSize=52&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20System%20Builder&descAlignY=70&descAlign=50"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Designing+%26+Building+Digital+Experiences;React+%7C+Node+%7C+JavaScript;Focused+on+Real+World+Projects;Future+Product+Creator+%26+Founder&center=true&width=620&height=45&color=00FFE0&vCenter=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Designing+%26+Building+Digital+Systems;Focused+on+Real+World+Projects;Clean+UI+%7C+Efficient+Logic;Future+Product+Creator+%26+Founder&center=true&width=640&height=45&color=00FFE0&vCenter=true"/>
 </p>
 
 ---
 
 ```diff
-+ STATUS: Actively Building Skills & Projects
-+ FOCUS: Full Stack Development + Product Thinking
++ STATUS: Actively Building & Improving
++ FOCUS: Full Stack Development + Practical Systems
 + MINDSET: Creation • Execution • Growth
+⚡ About Me
+Motivated Full-Stack Developer with hands-on experience in building responsive
+web interfaces, backend logic, and database-driven applications.
 
+I enjoy turning ideas into functional, user-friendly digital experiences
+with clean design and structured logic.
 
-
----
-
-## 🧑‍💻 About Me
-
-🚀 Motivated Full-Stack Developer passionate about building modern web applications  
-💡 Strong focus on UI, responsiveness, and backend integration  
-🎯 Goal: Build impactful tech products & scalable systems  
-🎯 Long-term Vision → Build scalable digital products
+🎯 Long-Term Vision → Build scalable digital products
 🚀 Direction → Developer → System Builder → Product Creator
 
-✔ MCA – SGB Amravati University (2024–2026)  
-✔ Background in Commerce + Computer Applications  
+🧠 Core Competencies
+◉ Frontend Development
+◉ Backend & API Logic
+◉ Database Design
+◉ Responsive UI / UX
+◉ Problem Solving
 
----
+🛠 Tech Stack
+Languages
 
-## ⚡ Tech Arsenal
 
-**Languages & Core**
 
-![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
 
-**Frameworks & Runtime**
 
-![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js)
+Frameworks / Runtime
 
-**Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-111111?style=for-the-badge&logo=oracle)
 
-**Tools**
+Databases
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
 
----
 
-## 📊 GitHub Intelligence
+Tools & Workflow
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LihanceBopche&show_icons=true&theme=radical&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LihanceBopche&layout=compact&theme=radical&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LihanceBopche&theme=radical&hide_border=true"/>
-</p>
 
----
+🚀 Selected Projects
+🔹 Cricket Club Management System
+🔹 Personal Portfolio Website
+🔹 NextBench Landing Page
+🔹 Ashray Interior & Construction Website
 
-## 🚀 Featured Projects
+Focused on usability, layout clarity, and practical functionality.
 
-🔹 Cricket Club Management System  
-🔹 Personal Portfolio  
-🔹 NextBench Landing Page  
-🔹 Ashray Interior & Construction Website  
+📊 GitHub Overview
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LihanceBopche&show_icons=true&theme=radical&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LihanceBopche&theme=radical&hide_border=true"/> </p>
+🧩 Soft Skills
+✔ Problem Solving
+✔ Communication
+✔ Adaptability
+✔ Time Management
+✔ Creativity
 
----
+🌍 Personal Snapshot
+📍 Gondia, Maharashtra, India
+🗣 English • Hindi • Marathi
 
-## 🧠 Soft Skills
+Interests → Photography • Travelling • Vlogging • Driving
 
-✔ Problem Solving  
-✔ Communication  
-✔ Adaptability  
-✔ Creativity  
-✔ Self-Motivation  
+Open to collaborations, learning opportunities, and impactful work.
 
----
+🤝 Connect With Me
 
-## 🌍 Additional Info
 
-📍 Gondia, Maharashtra, India  
-🗣 Languages: English | Hindi | Marathi  
-📸 Interests: Photography • Travelling • Vlogging • Driving  
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lihance-komesh-bopche-15a263220)
-
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/LihanceBopche)
-
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:lihancebopche@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LihanceBopche&color=00ffe0&style=flat-square"/>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LihanceBopche&color=00ffe0&style=flat-square"/> </p> ```

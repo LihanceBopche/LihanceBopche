@@ -1,8 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&text=Lihance%20Bopche&fontSize=45&fontColor=00ffe0&animation=fadeIn"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&text=Lihance%20Bopche&fontSize=45&fontColor=00ffe0&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node+%7C+JavaScript;Building+Real+World+Projects;Clean+Code+Enthusiast&center=true&width=500&height=45&color=00FFE0&vCenter=true"/>
+</p> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,100:0f0c29&text=Lihance%20Bopche&fontColor=00FFE0&fontSize=52&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20System%20Builder&descAlignY=70&descAlign=50"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Designing+%26+Building+Digital+Experiences;React+%7C+Node+%7C+JavaScript;Focused+on+Real+World+Projects;Future+Product+Creator+%26+Founder&center=true&width=620&height=45&color=00FFE0&vCenter=true"/>
 </p>
+
+---
+
+```diff
++ STATUS: Actively Building Skills & Projects
++ FOCUS: Full Stack Development + Product Thinking
++ MINDSET: Creation • Execution • Growth
+
+
 
 ---
 
@@ -11,6 +26,8 @@
 🚀 Motivated Full-Stack Developer passionate about building modern web applications  
 💡 Strong focus on UI, responsiveness, and backend integration  
 🎯 Goal: Build impactful tech products & scalable systems  
+🎯 Long-term Vision → Build scalable digital products
+🚀 Direction → Developer → System Builder → Product Creator
 
 ✔ MCA – SGB Amravati University (2024–2026)  
 ✔ Background in Commerce + Computer Applications  

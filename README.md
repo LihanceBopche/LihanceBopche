@@ -81,9 +81,6 @@ Focused on usability, layout clarity, and practical functionality.
   </a>
 </p>
 
-<img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb,supabase&theme=dark" />
-
-
 ## 🛠 Tools / IDE / Workflow
 
 <p align="center">

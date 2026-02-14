@@ -6,10 +6,6 @@
 
 ---
 
-```diff
-+ STATUS: Actively Building & Improving
-+ FOCUS: Full Stack Development + Practical Systems
-+ MINDSET: Creation • Execution • Growth
 ⚡ About Me
 Motivated Full-Stack Developer with hands-on experience in building responsive
 web interfaces, backend logic, and database-driven applications.

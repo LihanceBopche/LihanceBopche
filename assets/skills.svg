@@ -1,0 +1,271 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 560" width="860" height="560">
+  <defs>
+    <style>
+      @keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes iconPop{0%{transform:scale(0.6);opacity:0}70%{transform:scale(1.08)}100%{transform:scale(1);opacity:1}}
+      @keyframes iconHover{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+      .f0{animation:fadeUp .5s 0s both}
+      .f1{animation:fadeUp .5s .1s both}
+      .f2{animation:fadeUp .5s .2s both}
+      .f3{animation:fadeUp .5s .3s both}
+      .f4{animation:fadeUp .5s .4s both}
+      .f5{animation:fadeUp .5s .5s both}
+      @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+    <pattern id="bg-dots" patternUnits="userSpaceOnUse" width="24" height="24">
+      <circle cx="12" cy="12" r="1.1" fill="#247bff" opacity=".055"/>
+    </pattern>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b16"/>
+      <stop offset="100%" stop-color="#0c1525"/>
+    </linearGradient>
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#247bff" stop-opacity=".8"/>
+      <stop offset="50%"  stop-color="#ff354f" stop-opacity=".5"/>
+      <stop offset="100%" stop-color="#247bff" stop-opacity=".2"/>
+    </linearGradient>
+    <!-- icon pill shape -->
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity=".4"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="560" rx="20" fill="url(#bg)"/>
+  <rect width="860" height="560" rx="20" fill="url(#bg-dots)"/>
+  <rect width="860" height="560" rx="20" fill="none" stroke="url(#border-grad)" stroke-width="1.5"/>
+  <rect x="0" y="0" width="5" height="560" rx="2.5" fill="#247bff"/>
+
+  <!-- ═══════════ SECTION HEADER helper macro ═══════════ -->
+  <!-- We inline each section below -->
+
+  <!-- ─── SECTION 1: Languages & Technologies ─── -->
+  <g class="f0">
+    <text x="42" y="48" font-family="'Segoe UI',Arial" font-size="18" font-weight="700" fill="#e6edf3">🧬  Languages &amp; Technologies</text>
+    <line x1="42" y1="56" x2="818" y2="56" stroke="#21262d" stroke-width="1"/>
+  </g>
+
+  <!-- icon row y=70 -->
+  <!-- HTML5 -->
+  <g class="f0" transform="translate(260,70)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#e34c26" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="36" font-family="Arial" font-size="22" text-anchor="middle">🌐</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#e34c26" text-anchor="middle">HTML5</text>
+  </g>
+  <!-- CSS3 -->
+  <g class="f0" transform="translate(322,70)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#1572b6" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="34" font-family="Arial" font-size="20" text-anchor="middle">🎨</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#1572b6" text-anchor="middle">CSS3</text>
+  </g>
+  <!-- JavaScript -->
+  <g class="f0" transform="translate(384,70)">
+    <rect width="52" height="52" rx="12" fill="#f7df1e" filter="url(#shadow)"/>
+    <text x="26" y="34" font-family="'Arial Black',Arial" font-size="20" font-weight="900" fill="#000" text-anchor="middle">JS</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#000" text-anchor="middle">JavaScript</text>
+  </g>
+  <!-- TypeScript -->
+  <g class="f0" transform="translate(446,70)">
+    <rect width="52" height="52" rx="12" fill="#007acc" filter="url(#shadow)"/>
+    <text x="26" y="34" font-family="'Arial Black',Arial" font-size="20" font-weight="900" fill="#fff" text-anchor="middle">TS</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#fff" text-anchor="middle">TypeScript</text>
+  </g>
+  <!-- PHP -->
+  <g class="f0" transform="translate(508,70)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#777bb4" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="34" font-family="'Arial Black',Arial" font-size="16" font-weight="900" fill="#777bb4" text-anchor="middle">php</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#777bb4" text-anchor="middle">PHP</text>
+  </g>
+  <!-- SQL -->
+  <g class="f0" transform="translate(570,70)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#4479a1" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="34" font-family="monospace" font-size="14" font-weight="700" fill="#4479a1" text-anchor="middle">SQL</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#4479a1" text-anchor="middle">SQL</text>
+  </g>
+
+  <!-- ─── SECTION 2: Frameworks / Runtime ─── -->
+  <g class="f1">
+    <text x="42" y="158" font-family="'Segoe UI',Arial" font-size="18" font-weight="700" fill="#e6edf3">⚙️  Frameworks / Runtime</text>
+    <line x1="42" y1="166" x2="818" y2="166" stroke="#21262d" stroke-width="1"/>
+  </g>
+
+  <!-- React -->
+  <g class="f1" transform="translate(197,178)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#61dafb" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="34" font-family="Arial" font-size="20" text-anchor="middle">⚛️</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#61dafb" text-anchor="middle">React.js</text>
+  </g>
+  <!-- Next.js -->
+  <g class="f1" transform="translate(259,178)">
+    <rect width="52" height="52" rx="12" fill="#000" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#fff" stroke-width="1" opacity=".5"/>
+    <text x="26" y="33" font-family="'Arial Black',Arial" font-size="13" font-weight="900" fill="#fff" text-anchor="middle">Next</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#aaa" text-anchor="middle">Next.js</text>
+  </g>
+  <!-- Node.js -->
+  <g class="f1" transform="translate(321,178)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#6da55f" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="'Arial Black',Arial" font-size="12" font-weight="700" fill="#6da55f" text-anchor="middle">Node</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#6da55f" text-anchor="middle">Node.js</text>
+  </g>
+  <!-- Express -->
+  <g class="f1" transform="translate(383,178)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#f5a623" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="monospace" font-size="11" font-weight="700" fill="#f5a623" text-anchor="middle">ex</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#f5a623" text-anchor="middle">Express.js</text>
+  </g>
+  <!-- Tailwind -->
+  <g class="f1" transform="translate(445,178)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#38bdf8" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="'Arial Black',Arial" font-size="11" font-weight="700" fill="#38bdf8" text-anchor="middle">TW</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#38bdf8" text-anchor="middle">Tailwind</text>
+  </g>
+  <!-- Bootstrap -->
+  <g class="f1" transform="translate(507,178)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#7952b3" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="'Arial Black',Arial" font-size="14" font-weight="900" fill="#7952b3" text-anchor="middle">B</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#7952b3" text-anchor="middle">Bootstrap</text>
+  </g>
+
+  <!-- ─── SECTION 3: Databases ─── -->
+  <g class="f2">
+    <text x="42" y="262" font-family="'Segoe UI',Arial" font-size="18" font-weight="700" fill="#e6edf3">🗄️  Databases</text>
+    <line x1="42" y1="270" x2="818" y2="270" stroke="#21262d" stroke-width="1"/>
+  </g>
+
+  <!-- MongoDB -->
+  <g class="f2" transform="translate(259,282)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#47a248" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="'Arial Black',Arial" font-size="13" font-weight="700" fill="#47a248" text-anchor="middle">MDB</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#47a248" text-anchor="middle">MongoDB</text>
+  </g>
+  <!-- MySQL -->
+  <g class="f2" transform="translate(321,282)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#4479a1" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="monospace" font-size="10" font-weight="700" fill="#4479a1" text-anchor="middle">MySQL</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#4479a1" text-anchor="middle">MySQL</text>
+  </g>
+  <!-- PostgreSQL -->
+  <g class="f2" transform="translate(383,282)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#336791" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="monospace" font-size="9" font-weight="700" fill="#336791" text-anchor="middle">PgSQL</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#336791" text-anchor="middle">PostgreSQL</text>
+  </g>
+  <!-- MS Access -->
+  <g class="f2" transform="translate(445,282)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#a4373a" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="monospace" font-size="9" font-weight="700" fill="#a4373a" text-anchor="middle">Access</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#a4373a" text-anchor="middle">MS Access</text>
+  </g>
+
+  <!-- ─── SECTION 4: Tools / IDE / Workflow ─── -->
+  <g class="f3">
+    <text x="42" y="366" font-family="'Segoe UI',Arial" font-size="18" font-weight="700" fill="#e6edf3">🔧  Tools / IDE / Workflow</text>
+    <line x1="42" y1="374" x2="818" y2="374" stroke="#21262d" stroke-width="1"/>
+  </g>
+
+  <!-- VS Code -->
+  <g class="f3" transform="translate(135,386)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#0078d4" stroke-width="1.2" opacity=".8"/>
+    <text x="26" y="33" font-family="Arial" font-size="20" text-anchor="middle">💻</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#0078d4" text-anchor="middle">VS Code</text>
+  </g>
+  <!-- Git -->
+  <g class="f3" transform="translate(197,386)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#f05032" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="'Arial Black',Arial" font-size="13" font-weight="700" fill="#f05032" text-anchor="middle">git</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#f05032" text-anchor="middle">Git</text>
+  </g>
+  <!-- GitHub -->
+  <g class="f3" transform="translate(259,386)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#e0e0e0" stroke-width="1.2" opacity=".5"/>
+    <text x="26" y="33" font-family="Arial" font-size="20" text-anchor="middle">🐙</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#e0e0e0" text-anchor="middle">GitHub</text>
+  </g>
+  <!-- Postman -->
+  <g class="f3" transform="translate(321,386)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#ff6c37" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="Arial" font-size="20" text-anchor="middle">📮</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#ff6c37" text-anchor="middle">Postman</text>
+  </g>
+  <!-- Canva -->
+  <g class="f3" transform="translate(383,386)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#00c4cc" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="'Arial Black',Arial" font-size="13" font-weight="700" fill="#00c4cc" text-anchor="middle">Cv</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#00c4cc" text-anchor="middle">Canva</text>
+  </g>
+  <!-- GitHub Actions -->
+  <g class="f3" transform="translate(445,386)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#2088ff" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="Arial" font-size="18" text-anchor="middle">⚡</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#2088ff" text-anchor="middle">GH Actions</text>
+  </g>
+  <!-- Linux -->
+  <g class="f3" transform="translate(507,386)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#fcc624" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="Arial" font-size="20" text-anchor="middle">🐧</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#fcc624" text-anchor="middle">Linux</text>
+  </g>
+
+  <!-- ─── SECTION 5: Deployment / Hosting ─── -->
+  <g class="f4">
+    <text x="42" y="470" font-family="'Segoe UI',Arial" font-size="18" font-weight="700" fill="#e6edf3">🚀  Deployment / Hosting</text>
+    <line x1="42" y1="478" x2="818" y2="478" stroke="#21262d" stroke-width="1"/>
+  </g>
+
+  <!-- Vercel -->
+  <g class="f4" transform="translate(197,490)">
+    <rect width="52" height="52" rx="12" fill="#000" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#fff" stroke-width="1" opacity=".4"/>
+    <text x="26" y="33" font-family="'Arial Black',Arial" font-size="15" font-weight="900" fill="#fff" text-anchor="middle">▲</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#aaa" text-anchor="middle">Vercel</text>
+  </g>
+  <!-- Netlify -->
+  <g class="f4" transform="translate(259,490)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#00c7b7" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="'Arial Black',Arial" font-size="14" font-weight="900" fill="#00c7b7" text-anchor="middle">N</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#00c7b7" text-anchor="middle">Netlify</text>
+  </g>
+  <!-- Firebase -->
+  <g class="f4" transform="translate(321,490)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#ffca28" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="Arial" font-size="20" text-anchor="middle">🔥</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#ffca28" text-anchor="middle">Firebase</text>
+  </g>
+  <!-- Render -->
+  <g class="f4" transform="translate(383,490)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#46e3b7" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="'Arial Black',Arial" font-size="13" font-weight="700" fill="#46e3b7" text-anchor="middle">R</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#46e3b7" text-anchor="middle">Render</text>
+  </g>
+  <!-- Railway -->
+  <g class="f4" transform="translate(445,490)">
+    <rect width="52" height="52" rx="12" fill="#1e1e1e" filter="url(#shadow)"/>
+    <rect width="52" height="52" rx="12" fill="none" stroke="#7b68ee" stroke-width="1.2" opacity=".7"/>
+    <text x="26" y="33" font-family="Arial" font-size="18" text-anchor="middle">🚂</text>
+    <text x="26" y="50" font-family="monospace" font-size="7" fill="#7b68ee" text-anchor="middle">Railway</text>
+  </g>
+</svg>

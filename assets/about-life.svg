@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 430" width="860" height="430">
+  <defs>
+    <style>
+      @keyframes barGlow { 0%, 100% { opacity: 0.8; } 50% { opacity: 1; } }
+      .bar-active { animation: barGlow 2s ease-in-out infinite; }
+    </style>
+    <pattern id="ab-dots" patternUnits="userSpaceOnUse" width="22" height="22">
+      <circle cx="11" cy="11" r="1.1" fill="#247bff" opacity=".05"/>
+    </pattern>
+    <linearGradient id="ab-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811"/>
+      <stop offset="100%" stop-color="#091122"/>
+    </linearGradient>
+    <linearGradient id="bentoCard" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#11192e"/>
+      <stop offset="100%" stop-color="#0c1222"/>
+    </linearGradient>
+    <filter id="ab-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect width="860" height="430" rx="20" fill="url(#ab-bg)"/>
+  <rect width="860" height="430" rx="20" fill="url(#ab-dots)"/>
+  <rect width="860" height="430" rx="20" fill="none" stroke="#1f2c4d" stroke-width="1.4"/>
+  <rect x="0" y="0" width="5" height="430" rx="2.5" fill="#f43f5e"/>
+
+  <!-- Header -->
+  <g transform="translate(36, 32)">
+    <text x="0" y="0" font-family="'Segoe UI', -apple-system, sans-serif" font-size="20" font-weight="800" fill="#ffffff">⚡ Engineering Capabilities &amp; Philosophy</text>
+    <text x="0" y="20" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8ba0c0">Technical pillars that drive my software development workflow</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════════════════
+       CARD 1 (Top Left): FULL-STACK ARCHITECTURE
+  ═══════════════════════════════════════════════════════════════════ -->
+  <g transform="translate(36, 75)" filter="url(#ab-shadow)">
+    <rect width="380" height="155" rx="14" fill="url(#bentoCard)" stroke="#1e2d4d" stroke-width="1"/>
+    <rect x="18" y="16" width="36" height="36" rx="8" fill="#1e3a5f"/>
+    <text x="36" y="40" font-family="Arial" font-size="18" text-anchor="middle">💻</text>
+    <text x="64" y="32" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="700" fill="#ffffff">Full-Stack MERN Architecture</text>
+    <text x="64" y="47" font-family="'Segoe UI', sans-serif" font-size="10.5" fill="#60a5fa">Component Design • REST APIs • DB Modeling</text>
+
+    <text x="18" y="78" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5e1">• Building modular, reusable frontend apps with React &amp; Next.js</text>
+    <text x="18" y="98" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5e1">• Node.js / Express backend servers with secure JWT &amp; OAuth auth</text>
+    <text x="18" y="118" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5e1">• MongoDB &amp; SQL schema design, indexing &amp; performance tuning</text>
+    <text x="18" y="138" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#38bdf8">→ Clean code, maintainable structure, test-driven mindset</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════════════════
+       CARD 2 (Top Right): AI & EMERGING TECH
+  ═══════════════════════════════════════════════════════════════════ -->
+  <g transform="translate(444, 75)" filter="url(#ab-shadow)">
+    <rect width="380" height="155" rx="14" fill="url(#bentoCard)" stroke="#1e2d4d" stroke-width="1"/>
+    <rect x="18" y="16" width="36" height="36" rx="8" fill="#3f1d2c"/>
+    <text x="36" y="40" font-family="Arial" font-size="18" text-anchor="middle">🤖</text>
+    <text x="64" y="32" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="700" fill="#ffffff">AI &amp; Prompt Engineering</text>
+    <text x="64" y="47" font-family="'Segoe UI', sans-serif" font-size="10.5" fill="#f43f5e">LLM Integration • AI Vidyapeeth • Workflows</text>
+
+    <text x="18" y="78" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5e1">• Developed AI Vidyapeeth web platform during Zeex AI internship</text>
+    <text x="18" y="98" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5e1">• Prompt Engineering with ChatGPT, Claude, Gemini &amp; Copilot</text>
+    <text x="18" y="118" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5e1">• Integrating AI APIs for smart search, content &amp; assistant bots</text>
+    <text x="18" y="138" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#f43f5e">→ 10x developer productivity through disciplined AI tooling</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════════════════
+       CARD 3 (Bottom Left): PROFESSIONAL INTERNSHIPS
+  ═══════════════════════════════════════════════════════════════════ -->
+  <g transform="translate(36, 248)" filter="url(#ab-shadow)">
+    <rect width="380" height="155" rx="14" fill="url(#bentoCard)" stroke="#1e2d4d" stroke-width="1"/>
+    <rect x="18" y="16" width="36" height="36" rx="8" fill="#1b382b"/>
+    <text x="36" y="40" font-family="Arial" font-size="18" text-anchor="middle">🏢</text>
+    <text x="64" y="32" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="700" fill="#ffffff">Industry Work Experience</text>
+    <text x="64" y="47" font-family="'Segoe UI', sans-serif" font-size="10.5" fill="#4ade80">Zeex AI (IIT Madras) &amp; Minimalistic Tech (UK)</text>
+
+    <text x="18" y="78" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" fill="#a7f3d0">Web Developer Intern • Zeex AI (Jan–Jun 2026 / 6 Mo.)</text>
+    <text x="18" y="94" font-family="'Segoe UI', sans-serif" font-size="10.5" fill="#94a3b8">Built live portals, UI components, debugged production tasks.</text>
+    <text x="18" y="116" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" fill="#a7f3d0">MERN Stack Intern • Minimalistic Technology (UK)</text>
+    <text x="18" y="132" font-family="'Segoe UI', sans-serif" font-size="10.5" fill="#94a3b8">Collaborated on live frontend/backend tasks under Mr. Parth Doshi.</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════════════════
+       CARD 4 (Bottom Right): EDUCATION & COMMUNITY
+  ═══════════════════════════════════════════════════════════════════ -->
+  <g transform="translate(444, 248)" filter="url(#ab-shadow)">
+    <rect width="380" height="155" rx="14" fill="url(#bentoCard)" stroke="#1e2d4d" stroke-width="1"/>
+    <rect x="18" y="16" width="36" height="36" rx="8" fill="#312e81"/>
+    <text x="36" y="40" font-family="Arial" font-size="18" text-anchor="middle">🎓</text>
+    <text x="64" y="32" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="700" fill="#ffffff">Education &amp; Publications</text>
+    <text x="64" y="47" font-family="'Segoe UI', sans-serif" font-size="10.5" fill="#818cf8">MCA Scholar &amp; Technical Blogger</text>
+
+    <text x="18" y="78" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5e1">• <tspan font-weight="700" fill="#ffffff">MCA (2024–2026)</tspan>: SGB Amravati University</text>
+    <text x="18" y="98" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5e1">• <tspan font-weight="700" fill="#ffffff">BCCA (2021–2024)</tspan>: N.M.D. College, Gondia</text>
+    <text x="18" y="118" font-family="'Segoe UI', sans-serif" font-size="11" fill="#cbd5e1">• <tspan font-weight="700" fill="#ffffff">MinimalisticLearning.com</tspan>: Live tech publishing platform</text>
+    <text x="18" y="138" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#a5b4fc">→ Continuous learner, technical writer &amp; open source builder</text>
+  </g>
+</svg>

@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" width="860" height="420">
+  <defs>
+    <pattern id="st-dots" patternUnits="userSpaceOnUse" width="22" height="22">
+      <circle cx="11" cy="11" r="1.1" fill="#247bff" opacity=".05"/>
+    </pattern>
+    <linearGradient id="st-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811"/>
+      <stop offset="100%" stop-color="#0a1222"/>
+    </linearGradient>
+    <linearGradient id="st-card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#11182c"/>
+      <stop offset="100%" stop-color="#0b101e"/>
+    </linearGradient>
+    <linearGradient id="barBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#247bff"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="barGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#16a34a"/>
+      <stop offset="100%" stop-color="#4ade80"/>
+    </linearGradient>
+    <linearGradient id="barPink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e11d48"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+    <linearGradient id="barYellow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <filter id="st-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="860" height="420" rx="20" fill="url(#st-bg)"/>
+  <rect width="860" height="420" rx="20" fill="url(#st-dots)"/>
+  <rect width="860" height="420" rx="20" fill="none" stroke="#1f2c4d" stroke-width="1.4"/>
+  <rect x="0" y="0" width="5" height="420" rx="2.5" fill="#247bff"/>
+
+  <!-- Header -->
+  <g transform="translate(36, 32)">
+    <text x="0" y="0" font-family="'Segoe UI', -apple-system, sans-serif" font-size="20" font-weight="800" fill="#ffffff">🛠️ Full-Stack Technology Matrix</text>
+    <text x="0" y="20" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8ba0c0">Production tools, frameworks, databases and infrastructure proficiency</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════════════════
+       COLUMN 1: FRONTEND ENGINEERING (Width: 380)
+  ═══════════════════════════════════════════════════════════════════ -->
+  <g transform="translate(36, 75)" filter="url(#st-shadow)">
+    <rect width="380" height="150" rx="12" fill="url(#st-card)" stroke="#1e2c4d" stroke-width="1"/>
+    <!-- Card Title -->
+    <text x="18" y="24" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#60a5fa">🎨 FRONTEND ECOSYSTEM</text>
+    <line x1="18" y1="32" x2="362" y2="32" stroke="#1e2c4d" stroke-width="1"/>
+
+    <!-- Skill item: React & Next.js -->
+    <text x="18" y="52" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">React.js &amp; Next.js 14</text>
+    <text x="362" y="52" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#60a5fa" text-anchor="end">92%</text>
+    <rect x="18" y="58" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="58" width="316" height="6" rx="3" fill="url(#barBlue)"/>
+
+    <!-- Skill item: JavaScript / TypeScript -->
+    <text x="18" y="82" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">JavaScript (ES6+) &amp; TypeScript</text>
+    <text x="362" y="82" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#60a5fa" text-anchor="end">90%</text>
+    <rect x="18" y="88" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="88" width="310" height="6" rx="3" fill="url(#barBlue)"/>
+
+    <!-- Skill item: Tailwind & Responsive UI -->
+    <text x="18" y="112" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">Tailwind CSS, HTML5, CSS3, Bootstrap</text>
+    <text x="362" y="112" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#60a5fa" text-anchor="end">95%</text>
+    <rect x="18" y="118" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="118" width="327" height="6" rx="3" fill="url(#barBlue)"/>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════════════════
+       COLUMN 2: BACKEND & SYSTEM DESIGN (Width: 380)
+  ═══════════════════════════════════════════════════════════════════ -->
+  <g transform="translate(444, 75)" filter="url(#st-shadow)">
+    <rect width="380" height="150" rx="12" fill="url(#st-card)" stroke="#1e2c4d" stroke-width="1"/>
+    <!-- Card Title -->
+    <text x="18" y="24" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#4ade80">⚙️ BACKEND &amp; SYSTEM DESIGN</text>
+    <line x1="18" y1="32" x2="362" y2="32" stroke="#1e2c4d" stroke-width="1"/>
+
+    <!-- Skill item: Node.js / Express -->
+    <text x="18" y="52" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">Node.js &amp; Express.js (REST APIs)</text>
+    <text x="362" y="52" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#4ade80" text-anchor="end">88%</text>
+    <rect x="18" y="58" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="58" width="302" height="6" rx="3" fill="url(#barGreen)"/>
+
+    <!-- Skill item: Authentication & Security -->
+    <text x="18" y="82" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">JWT Authentication, OAuth 2.0 &amp; Sessions</text>
+    <text x="362" y="82" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#4ade80" text-anchor="end">85%</text>
+    <rect x="18" y="88" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="88" width="292" height="6" rx="3" fill="url(#barGreen)"/>
+
+    <!-- Skill item: PHP Backend -->
+    <text x="18" y="112" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">PHP &amp; MVC Architecture</text>
+    <text x="362" y="112" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#4ade80" text-anchor="end">82%</text>
+    <rect x="18" y="118" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="118" width="282" height="6" rx="3" fill="url(#barGreen)"/>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════════════════
+       COLUMN 3: DATABASES & STORAGE (Width: 380)
+  ═══════════════════════════════════════════════════════════════════ -->
+  <g transform="translate(36, 245)" filter="url(#st-shadow)">
+    <rect width="380" height="150" rx="12" fill="url(#st-card)" stroke="#1e2c4d" stroke-width="1"/>
+    <text x="18" y="24" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#fb7185">🗄️ DATABASES &amp; DATA MODELING</text>
+    <line x1="18" y1="32" x2="362" y2="32" stroke="#1e2c4d" stroke-width="1"/>
+
+    <!-- Skill item: MongoDB -->
+    <text x="18" y="52" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">MongoDB (Mongoose ODM / Aggregations)</text>
+    <text x="362" y="52" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#fb7185" text-anchor="end">90%</text>
+    <rect x="18" y="58" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="58" width="310" height="6" rx="3" fill="url(#barPink)"/>
+
+    <!-- Skill item: SQL / MySQL -->
+    <text x="18" y="82" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">MySQL &amp; PostgreSQL (Joins, Procedures)</text>
+    <text x="362" y="82" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#fb7185" text-anchor="end">85%</text>
+    <rect x="18" y="88" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="88" width="292" height="6" rx="3" fill="url(#barPink)"/>
+
+    <!-- Skill item: MS Access & DB Design -->
+    <text x="18" y="112" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">Database Normalization, Indexing &amp; CRUD</text>
+    <text x="362" y="112" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#fb7185" text-anchor="end">92%</text>
+    <rect x="18" y="118" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="118" width="316" height="6" rx="3" fill="url(#barPink)"/>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════════════════
+       COLUMN 4: DEVOPS, AI & CLOUD (Width: 380)
+  ═══════════════════════════════════════════════════════════════════ -->
+  <g transform="translate(444, 245)" filter="url(#st-shadow)">
+    <rect width="380" height="150" rx="12" fill="url(#st-card)" stroke="#1e2c4d" stroke-width="1"/>
+    <text x="18" y="24" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#fbbf24">🚀 DEVOPS, CLOUD &amp; AI TOOLING</text>
+    <line x1="18" y1="32" x2="362" y2="32" stroke="#1e2c4d" stroke-width="1"/>
+
+    <!-- Skill item: Git & GitHub Actions -->
+    <text x="18" y="52" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">Git, GitHub Actions &amp; CI/CD Pipelines</text>
+    <text x="362" y="52" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#fbbf24" text-anchor="end">90%</text>
+    <rect x="18" y="58" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="58" width="310" height="6" rx="3" fill="url(#barYellow)"/>
+
+    <!-- Skill item: Deployment platforms -->
+    <text x="18" y="82" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">Vercel, Netlify, Firebase, Render, Railway</text>
+    <text x="362" y="82" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#fbbf24" text-anchor="end">94%</text>
+    <rect x="18" y="88" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="88" width="323" height="6" rx="3" fill="url(#barYellow)"/>
+
+    <!-- Skill item: AI Tools & Prompting -->
+    <text x="18" y="112" font-family="'Segoe UI', sans-serif" font-size="11" fill="#e2e8f0">AI Assisted Dev (ChatGPT, Gemini, Claude, Copilot)</text>
+    <text x="362" y="112" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#fbbf24" text-anchor="end">95%</text>
+    <rect x="18" y="118" width="344" height="6" rx="3" fill="#1e293b"/>
+    <rect x="18" y="118" width="327" height="6" rx="3" fill="url(#barYellow)"/>
+  </g>
+</svg>
